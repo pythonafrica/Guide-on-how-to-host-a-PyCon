@@ -48,16 +48,16 @@ Here’s a comprehensive list of posts and announcements to consider, incorporat
 13. **Sponsor Spotlights**
     * Highlight and thank sponsors as they come on board.
 14. **Impact Stories**
-    * Share how sponsor contributions are helping the community, like funding for financial aid【28†source】.
+    * Share how sponsor contributions are helping the community, like funding for financial aid.
 
 ## Community Engagement
 
 15. **Community Highlights**
-    * Feature local Python communities and their contributions to the conference【28†source】.
+    * Feature local Python communities and their contributions to the conference.
 16. **Interactive Posts**
     * Polls, Q\&A sessions, and interactive content to engage the audience.
 17. **Language and Inclusivity Posts**
-    * Announcements about language inclusivity efforts and translation services if applicable【26†source】.
+    * Announcements about language inclusivity efforts and translation services if applicable.
 
 ## Conference Week
 
@@ -68,7 +68,7 @@ Here’s a comprehensive list of posts and announcements to consider, incorporat
 20. **Thank You Posts**
     * Thank attendees, speakers, sponsors, and volunteers each day.
 21. **Networking and Social Events**
-    * Highlight networking opportunities and social events like the PyLadies Dinner and Django Girls workshop【28†source】.
+    * Highlight networking opportunities and social events like the PyLadies Dinner and Django Girls workshop.
 
 ## Post-Conference
 
