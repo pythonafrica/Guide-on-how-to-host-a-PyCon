@@ -2,6 +2,8 @@
 
 Welcome to the Guide to Hosting PyCon! This comprehensive guide provides all the information you need to plan, organize, and execute a successful PyCon event. Whether you're a first-time organizer or looking to enhance your existing event, this guide covers everything from initial planning to post-conference wrap-up.
 
+You can view the full documentation here: [https://docs.pycon.africa/](https://docs.pycon.africa/)Hosting-a-PyCon
+
 ## Table of Contents
 
 {% content-ref url="introduction.md" %}
