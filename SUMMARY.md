@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Hosting a PyCon](README.md)
+* [Introduction](introduction.md)
 * [Planning and Preparation](planning-and-preparation/README.md)
   * [Initial Planning](planning-and-preparation/initial-planning.md)
   * [Team Formation](planning-and-preparation/team-formation/README.md)
