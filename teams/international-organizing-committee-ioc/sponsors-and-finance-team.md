@@ -1,0 +1,2 @@
+# Sponsors and Finance Team 💸
+
